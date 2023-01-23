@@ -1,0 +1,354 @@
+body{
+background-color : lightgrey;
+ width: 100%;
+}
+header{
+background-color: white;
+height: 730px;
+}
+footer{
+background-color: black;
+height: 350px;
+}
+#inhoudheadereen{
+width: 640px;
+min-height: 700px;
+background-color: rgb(246, 91, 37); opacity: 85%; 
+position: absolute;
+top: 0px;
+left: 870px;    
+}
+#inhoudheadertwee{
+background-image: url(../afbeeldingen/foto\ 1\ -\ wysloo.jpg); 
+width: 1000px;
+min-height: 450px;
+position: absolute;
+top: 0px;
+left: 7px;    
+}
+#inhoudheaderdrie{
+background-color: rgb(246, 91, 37); opacity: 75%;   
+width: 100px;
+min-height: 325px;
+position: absolute;
+top: 62px;
+left: 770px; 
+}
+#inhoudheadervier{
+font-family: 'Jost', sans-serif;
+text-align: center;
+padding-top: 70px;
+background-color: white;   
+width: 580px;
+min-height: 255px;
+position: absolute;
+top: 62px;
+left: 870px; 
+}
+#inhoudheadervijf{      
+width: 1375px;
+height: 3px;
+background-color: black;
+position: absolute;
+top: 485px;
+left: 75px;
+}
+#inhoudheaderzes{
+background-image: url(../afbeeldingen/logo\ wysloo.jpg);
+width: 350px;
+min-height: 180px;
+position: absolute;
+top: 520px;
+left: 75px;
+}
+section{
+background-color: white;
+width:100%;
+height: 1790px;
+}
+#inhoudovermezelfeen{
+background-image: url(../afbeeldingen/foto\ 2\ -\ wysloo.jpg); 
+width: 400px;
+min-height: 550px;
+position: absolute;
+top:770px;
+left: 770px;    
+}
+#inhoudovermezelftwee{
+background-color: rgb(246, 91, 37); opacity: 75%;   
+width: 100px;
+min-height: 360px;
+position: absolute;
+top: 890px;
+left: 770px; 
+}
+#inhoudovermezelfdrie{      
+width: 1375px;
+height: 3px;
+background-color: black;
+position: absolute;
+top: 1350px;
+left: 75px;
+}
+#inhoudovermezelfvier{
+font-family: 'Jost', sans-serif;
+text-align: center;
+padding-top: 30px;
+background-color: darkgrey;   
+width: 695px;
+min-height: 330px;
+position: absolute;
+top: 890px;
+left: 75px; 
+}
+#inhoudovermezelfvijf{
+font-family: 'Jost', sans-serif;
+text-align: center;
+padding-top: 70px;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+background-color: darkgrey;   
+width: 625px;
+min-height: 90px;
+position: absolute;
+top: 980px;
+left: 90px; 
+}
+#inhoudkleurachtergrond{
+width: 800px;
+min-height: 450px;
+background-color: rgb(246, 91, 37); opacity: 85%;
+position: absolute;
+top: 2000px;
+left: 75px;    
+}
+#inhoudstreepachtergrond{      
+width: 1375px;
+height: 3px;
+background-color: black;
+position: absolute;
+top: 2380px;
+left: 75px;
+}
+#inhoudkleuradvieseen{
+background-image: url(../afbeeldingen/foto\ 3\ -\ wysloo.jpg); 
+width: 400px;
+min-height: 400px;
+position: absolute;
+top:1380px;
+left: 75px;    
+}
+#inhoudkleuradviestwee{
+background-color: rgb(246, 91, 37); opacity: 65%;   
+width: 400px;
+min-height: 100px;
+position: absolute;
+top: 1680px;
+left: 75px;
+} 
+#inhoudkleuradviesdrie{
+font-family: 'Jost', sans-serif;
+text-align: center;
+padding-top: 30px;
+background-color: darkgrey;   
+width: 400px;
+min-height: 540px;
+position: absolute;
+top: 1780px;
+left: 75px; 
+}
+#inhoudkleuradviesvier{
+font-family: 'Jost', sans-serif;
+text-align: center;
+padding-top: 70px;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+background-color: darkgrey;   
+width: 330px;
+height: 360px;
+position: absolute;
+top: 1865px;
+left: 90px; 
+}
+#inhoudschilderwerkeen{
+background-image: url(../afbeeldingen/foto\ 4\ -\ wysloo.jpg); 
+width: 400px;
+min-height: 400px;
+position: absolute;
+top:1390px;
+left: 560px;    
+}
+#inhoudschilderwerktwee{
+background-color: rgb(246, 91, 37); opacity: 65%;   
+width: 400px;
+min-height: 100px;
+position: absolute;
+top: 1680px;
+left: 560px;
+} 
+#inhoudschilderwerkdrie{
+font-family: 'Jost', sans-serif;
+text-align: center;
+padding-top: 30px;
+background-color: darkgrey;   
+width: 400px;
+min-height: 540px;
+position: absolute;
+top: 1780px;
+left: 560px; 
+}
+#inhoudschilderwerkvier{
+font-family: 'Jost', sans-serif;
+text-align: center;
+padding-top: 70px;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+background-color: darkgrey;   
+width: 330px;
+min-height: 360px;
+position: absolute;
+top: 1865px;
+left: 575px; 
+}
+#inhoudmateriaaleen{
+background-image: url(../afbeeldingen/foto\ 5\ -\ \ wysloo.jpg); 
+width: 400px;
+min-height: 400px;
+position: absolute;
+top:1390px;
+left: 1050px;    
+}
+#inhoudmateriaaltwee{
+background-color: rgb(246, 91, 37); opacity: 65%;   
+width: 400px;
+min-height: 100px;
+position: absolute;
+top: 1685px;
+left: 1050px;
+}
+#inhoudmateriaaldrie{
+font-family: 'Jost', sans-serif;
+text-align: center;
+padding-top: 30px;
+background-color: darkgrey;   
+width: 400px;
+min-height: 540px;
+position: absolute;
+top: 1780px;
+left: 1050px; 
+}
+#inhoudmateriaalvier{
+font-family: 'Jost', sans-serif;
+text-align: center;
+padding-top: 70px;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+background-color: darkgrey;   
+width: 330px;
+min-height: 360px;
+position: absolute;
+top: 1865px;
+left: 1065px; 
+}
+#inhoudfooterstreep{
+width: 3px;
+min-height: 180px;
+background-color: rgb(246, 91, 37); 
+position: absolute;
+top: 2565px;
+left: 685px;
+}
+#inhoudfooterstreeptwee{
+width: 3px;
+min-height: 180px;
+background-color: rgb(246, 91, 37);
+position: absolute;
+top: 2565px;
+left: 1185px;
+}
+#inhoudfootereen{
+background-image: url(../afbeeldingen/logo\ wysloo\ 2.jpg); 
+width: 350px;
+min-height: 180px;
+position: absolute;
+top:2550px;
+left: 75px;    
+}
+#inhoudfootertwee{
+color: white;
+font-family: 'Jost', sans-serif;
+text-align: left;
+padding-top: 10px;
+width: 500px;
+min-height: 180px;
+position: absolute;
+top:2550px;
+left: 600px;
+}#inhoudfooterdrie{
+color: white;
+font-family: 'Jost', sans-serif;
+text-align: left;
+padding-top: 30px;
+width: 500px;
+min-height: 180px;
+position: absolute;
+top:2550px;
+left: 1100px;
+border-left-color: solid orangered;
+border-left-width: 20px;   
+}
+td{
+padding-left : 25px;
+border-left-color: solid orangered;
+border-left-width: 20px;
+}
+#Knop{
+background-color: darkgrey;
+font-family: 'Jost', sans-serif;
+padding: 5px 5px 5px 5px;
+}
+#showKnop{
+background-color: darkgrey;
+font-family: 'Jost', sans-serif;
+padding: 5px 5px 5px 5px;
+}
+#Knop2{
+background-color: darkgrey;
+font-family: 'Jost', sans-serif;
+padding: 5px 5px 5px 5px;
+}
+#showKnop2{
+background-color: darkgrey;font-family: 'Jost', sans-serif;
+padding: 5px 5px 5px 5px;
+}
+#Knop3{
+background-color: darkgrey;
+font-family: 'Jost', sans-serif;
+padding: 5px 5px 5px 5px;
+}
+#showKnop3{
+background-color: darkgrey;
+font-family: 'Jost', sans-serif;
+padding: 5px 5px 5px 5px;
+}
+#Knop4{
+background-color: darkgrey;
+font-family: 'Jost', sans-serif;
+padding: 5px 5px 5px 5px;
+}
+#showKnop4{
+background-color: darkgrey;
+font-family: 'Jost', sans-serif;
+padding: 5px 5px 5px 5px;
+}
+#auteursrecht{
+font-family: 'Jost', sans-serif;
+color:  darkgrey; 
+position: absolute;
+top:2825px;
+left: 105px;  
+}
